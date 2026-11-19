@@ -1,4 +1,4 @@
-package com.example.prak7.uicontroller
+package com.example.prak7.view.uicontroller
 
 interface DestinasiNavigasi {
     /**
