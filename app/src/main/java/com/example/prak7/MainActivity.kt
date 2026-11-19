@@ -8,7 +8,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import com.example.prak7.ui.theme.Prak7Theme
-import com.example.prak7.uicontroller.SiswaApp
+import com.example.prak7.view.uicontroller.SiswaApp
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
